@@ -1,0 +1,16 @@
+{
+  "authors": [
+    {
+      "name": "Murilo Michels Nunes",
+      "email": "murilonunes@live.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "scr/"
+    }
+  }
+}
